@@ -3,7 +3,7 @@
  * Enigma Number 1768 (Die hard).
  * http://www.newscientist.com/article/mg21929360.600-enigma-number-1768.html
  *
- * Lot's of magic numbers, but this was never expected to be general...
+ * Lots of magic numbers, but this was never expected to be general...
  * (c) Maksim Solovjov, 2014
  */
 import java.util.*;
